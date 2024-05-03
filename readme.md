@@ -1,1 +1,1 @@
-# You can view this site live at https://ttorpy.github.io/qr-front-end-display/
+# You can view this site live at https://tejas558.github.io/qr-front-end-display/
